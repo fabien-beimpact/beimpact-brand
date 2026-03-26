@@ -1,0 +1,8 @@
+{
+  "name": "beimpact-brand",
+  "version": "1.0.0",
+  "description": "be/impact brand identity — colors, fonts, tone, and visual style for creating on-brand documents, presentations, emails, and marketing materials.",
+  "author": { "name": "be/impact" },
+  "keywords": ["brand", "design", "identity", "beimpact", "presentation", "documents"],
+  "license": "UNLICENSED"
+}
